@@ -4,6 +4,4 @@ To run the project Please do
 
 `npm start`
 
-Live link 
-
-`http://fast-force.surge.sh/`
+[Live Link](http://fast-force.surge.sh/)
